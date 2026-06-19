@@ -1,1 +1,2 @@
-# ML
+# mnist
+A mnist demo app.
